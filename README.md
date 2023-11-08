@@ -24,11 +24,11 @@ Word Counter is a basic web application that allows users to input or paste text
 
 1. Visit the Word Counter web page.
 2. Enter or paste your text into the text area.
-3. The word count will be displayed in real-time below the text area.
+3. The word count will be displayed in real-time below the text area.   
 
 ## Screenshots
 
-![Word Counter Screenshot](screenshot.png)
+![Word Counter Screenshot](image.png)
 
 ## License
 
